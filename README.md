@@ -10,4 +10,5 @@ Copy the MatBlack, MatClear and MatGrey folder to /media/home/.gmenu2x/skins
 
 # Credits 
 Based on the skins FlatDark-Rg350-skin from ctrlBIRDdelete and on the ScanlinesRed from Gmenu2x
+
 Icons from www.iconsdb.com
