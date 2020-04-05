@@ -12,6 +12,9 @@ Copy the MatBlack, MatClear and MatGrey folder to /media/home/.gmenu2x/skins
 Based on FlatDark-Rg350-skin from ctrlBIRDdelete and on ScanlinesRed from Gmenu2x
 
 Apps icons from www.iconsdb.com and www.icons8.com
-Emulators icons from www.iconarchive.com/show/antiseptic-videogame-icons-by-starvingartist.com
+
+Emulators icons from www.iconarchive.com/show/antiseptic-videogame-icons-by-starvingartist.html
+
 Png online editor www.photopea.com
-OPK file extension online viewer www.filext.com/file-extension/OPK.com
+
+OPK file extension online viewer www.filext.com/file-extension/OPK
