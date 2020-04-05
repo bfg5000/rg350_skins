@@ -1,14 +1,17 @@
 # rg350_skins
 A matching skin for each handheld console RG350 color.
 
-![](Screenshots/screenshot0.png) ![](Screenshots/screenshot00.png)
-![](Screenshots/screenshot000.png)
+![](Screenshots/screenshot01.png) ![](Screenshots/screenshot02.png)
+![](Screenshots/screenshot03.png)
 
 # Installation
 Download and unzip.\
 Copy the MatBlack, MatClear and MatGrey folder to /media/home/.gmenu2x/skins
 
 # Credits 
-Based on the skins FlatDark-Rg350-skin from ctrlBIRDdelete and on the ScanlinesRed from Gmenu2x
+Based on FlatDark-Rg350-skin from ctrlBIRDdelete and on ScanlinesRed from Gmenu2x
 
-Icons from www.iconsdb.com
+Apps icons from www.iconsdb.com and www.icons8.com
+Emulators icons from www.iconarchive.com/show/antiseptic-videogame-icons-by-starvingartist.com
+Png online editor www.photopea.com
+OPK file extension online viewer www.filext.com/file-extension/OPK.com
