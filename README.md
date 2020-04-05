@@ -1,5 +1,5 @@
 # rg350_skins
-A matching skin for each handheld console RG350 color.
+A matching skin for each RG350 handheld console color.
 
 ![](Screenshots/screenshot01.png) ![](Screenshots/screenshot02.png)
 ![](Screenshots/screenshot03.png)
