@@ -27,3 +27,4 @@ Png online editor www.photopea.com
 OPK file extension online viewer www.filext.com/file-extension/OPK
 
 Box arts images for the roms www.thecoverproject.net
+<meta name="google-site-verification" content="1WIUO12WBQBZbkLoKOP-2A-Pk0Ajqe9EpMjT4Bp7_xo" />
