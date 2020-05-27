@@ -14,7 +14,7 @@ Select the skin and reboot
 In each folder containing roms create a folder with the name : previews  
 Put box arts images or screenshot images in the folder (must be .png 240px max height) with the name of the rom.
 
-![](Screenshots/screenshot07.png) ![](Screenshots/screenshot08.png)
+![](Screenshots/screenshot0007.png) ![](Screenshots/screenshot0008.png)
 ![](Screenshots/screenshot009.png) ![](Screenshots/screenshot010.png)
 
 # Credits 
