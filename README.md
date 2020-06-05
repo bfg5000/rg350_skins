@@ -13,8 +13,8 @@ A matching skin for each RG350 handheld console color.
 
 # Installation
 Download and unzip.\
-Copy the MatBlack, MatClear and MatGrey folder to /media/home/.gmenu2x/skins\
-Select the skin and reboot
+Copy the skin folder to /media/home/.gmenu2x/skins\
+Select the skin and reboot the console.
 
 # Previews Arts
 In each folder containing roms create a folder with the name : previews  
