@@ -1,5 +1,5 @@
 # RG350 Skins
-A matching skin for each RG350 handheld console color.
+A matching skin for each color of the RG350 handheld console.
 
 ![](RG350.png)
 
