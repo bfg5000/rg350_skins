@@ -1,8 +1,10 @@
 # RG350 Skins
 A matching skin for each color of the RG350 handheld console.
 
-![](RG350.png) ![](Screenshots/screenshot01.png)
-![](Screenshots/screenshot02.png) ![](Screenshots/screenshot03.png) 
+![](RG350.png)
+
+![](Screenshots/screenshot01.png) ![](Screenshots/screenshot02.png)
+![](Screenshots/screenshot03.png) 
 
 ![](Screenshots/screenshot04.png) ![](Screenshots/screenshot05.png)
 ![](Screenshots/screenshot06.png) ![](Screenshots/screenshot07.png)
