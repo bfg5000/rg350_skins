@@ -7,7 +7,7 @@ A matching skin for each color of the RG350 handheld console.
 ![](Screenshots/screenshot03.png) 
 
 ![](Screenshots/screenshot04.png) ![](Screenshots/screenshot05.png)
-![](Screenshots/screenshot06.png)
+![](Screenshots/screenshot06.png) ![](Screenshots/screenshot07.png)
 
 ![](Screenshots/screenshot08.png) ![](Screenshots/screenshot09.png)
 
