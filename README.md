@@ -16,7 +16,7 @@ Select the skin and reboot the console.
 
 # Previews Arts
 In each folder containing roms create a folder with the name "previews" 
-Put box arts images or screenshot images in the folder (must be .png 240px max height) with the name of the rom.
+Put box art images or screenshot images in the folder (must be .png 240px max height) with the name of the rom.
 
 ![](Screenshots/screenshot010.png) ![](Screenshots/screenshot011.png)
 
@@ -33,4 +33,4 @@ Png online editor www.photopea.com
 
 OPK file extension online viewer www.filext.com/file-extension/OPK
 
-Box arts images for the roms www.thecoverproject.net
+Box art images for the roms www.thecoverproject.net
