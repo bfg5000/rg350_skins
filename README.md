@@ -19,6 +19,7 @@ In each folder containing roms create a folder with the name "previews"
 Put box arts images or screenshot images in the folder (must be .png 240px max height) with the name of the rom.
 
 ![](Screenshots/screenshot010.png) ![](Screenshots/screenshot011.png)
+
 ![](Screenshots/screenshot012.png) ![](Screenshots/screenshot013.png)
 
 # Credits 
