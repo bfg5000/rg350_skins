@@ -3,8 +3,8 @@ A matching skin for each color of the RG350 handheld console.
 
 ![](RG350.png)
 
+![](Screenshots/screenshot001.png) ![](Screenshots/screenshot002.png) ![](Screenshots/screenshot003.png)
 ![](Screenshots/screenshot004.png) ![](Screenshots/screenshot005.png) ![](Screenshots/screenshot006.png)
-![](Screenshots/screenshot007.png) ![](Screenshots/screenshot008.png) ![](Screenshots/screenshot009.png)
 
 # Installation
 Download and unzip.\
@@ -15,8 +15,8 @@ Select the skin and reboot the console.
 In each folder containing roms create a folder with the name "previews" 
 Put box art images or screenshot images in the folder (must be .png 240px max height) with the name of the rom.
 
-![](Screenshots/screenshot010.png) ![](Screenshots/screenshot011.png)
-![](Screenshots/screenshot012.png) ![](Screenshots/screenshot013.png)
+![](Screenshots/screenshot007.png) ![](Screenshots/screenshot008.png)
+![](Screenshots/screenshot009.png) ![](Screenshots/screenshot010.png)
 
 # Credits 
 Based on FlatDark-Rg350-skin from ctrlBIRDdelete, gmenu2x-skin-flat from peeweek and on ScanlinesRed from Gmenu2x
